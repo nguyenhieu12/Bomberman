@@ -1,0 +1,4 @@
+1 - wall
+2 - brick
+3 - item
+
